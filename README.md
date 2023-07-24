@@ -1,13 +1,28 @@
-### Trains Schedule
-###### Anroid application. Show schedule of suburban electric trains using [Yandex API][yandex]
+# Trains Schedule
 
-![Main][Main]
+## About 
+- This thing planned as Xamarin Forms app to show schedule of suburban electric trains using [Yandex API][yandex].
 
-##### Used libraries
-[Robospice][Robospice] - library for building network async apps  
-[Retrofit][Retrofit] - library for working with REST API
+- My idea is research the process of quick porting of Android application to XF. 
 
-[Main]: https://cloud.githubusercontent.com/assets/8672252/12785099/cbdcb16c-ca9b-11e5-8b33-7bd9fc42bc04.png
-[yandex]: https://tech.yandex.ru/rasp/raspapi "Yandex API"
-[Robospice]: https://github.com/stephanenicolas/robospice "Robospice"
-[Retrofit]: http://square.github.io/retrofit "Retrofit"
+## Screenshots (design)
+![](Images/shot1.png)
+
+## Status
+- Damaged / Draft / Init state of app porting process
+
+## Used libraries
+* Robospice - library for building network async apps  
+* Retrofit - library for working with REST API
+
+## References
+- https://github.com/Rexee/TrainsSchedule "Original Java Version"
+- https://tech.yandex.ru/rasp/raspapi "Yandex API"
+- https://github.com/stephanenicolas/robospice "Robospice"
+- http://square.github.io/retrofit "Retrofit"
+
+## ..
+As is. No support. RnD only.
+
+## .
+[m][e] 2023

@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\TrainsSchedule\TrainsSchedule\TrainsSchedule\obj\Debug\netstandard2.0\TrainsSchedule.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\TrainsSchedule\TrainsSchedule\TrainsSchedule\obj\Debug\netstandard2.0\TrainsSchedule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\TrainsSchedule\TrainsSchedule\TrainsSchedule\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Admin\source\repos\TrainsSchedule\TrainsSchedule\TrainsSchedule\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Admin\source\repos\TrainsSchedule\TrainsSchedule\TrainsSchedule\obj\Debug\netstandard2.0\TrainsSchedule.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\TrainsSchedule\TrainsSchedule\TrainsSchedule\obj\Debug\netstandard2.0\TrainsSchedule.AssemblyInfo.cs
+C:\Users\Admin\source\repos\TrainsSchedule\TrainsSchedule\TrainsSchedule\obj\Debug\netstandard2.0\TrainsSchedule.csproj.CoreCompileInputs.cache

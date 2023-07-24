@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "CicW9kyoKjvA4ow2m9dUXTJqSD1+Zy3yGgQy6Q+AqOOZxvdGuxg5ErGs1fFT9Hz+1CVNngQSAG4sOd5HO0v99w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\mediaexplorer74\\TrainsSchedule\\TrainsSchedule\\TrainsSchedule\\TrainsSchedule.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
